@@ -8,3 +8,6 @@ Tugas 2: Menangkap Traffic UDP melalui Wireshark <br>
 
 Tugas 3: Modifikasi Multithread <br>
 [Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas3) <br>
+
+Tugas 4: Multithread Mengolah File<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas4) <br>

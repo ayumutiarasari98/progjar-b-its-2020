@@ -11,3 +11,6 @@ Tugas 3: Modifikasi Multithread <br>
 
 Tugas 4: Multithread Mengolah File<br>
 [Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas4) <br>
+
+Tugas 5: Protokol Chat dengan Multithread<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas5) <br>

@@ -14,3 +14,9 @@ Tugas 4: Multithread Mengolah File<br>
 
 Tugas 5: Protokol Chat dengan Multithread<br>
 [Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas5) <br>
+
+Tugas 6: Implementasi Sederhana HTTP Server<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas6) <br>
+
+Tugas 7: Performance Test Web Server menggunakan apachebenchark<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas7) <br>

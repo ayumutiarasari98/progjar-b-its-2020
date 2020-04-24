@@ -20,3 +20,6 @@ Tugas 6: Implementasi Sederhana HTTP Server<br>
 
 Tugas 7: Performance Test Web Server menggunakan apachebenchark<br>
 [Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas7) <br>
+
+Tugas 7: Modifikasi HTTP Server pada folder progjar5<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas8) <br>

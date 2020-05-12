@@ -23,3 +23,9 @@ Tugas 7: Performance Test Web Server menggunakan apachebenchark<br>
 
 Tugas 8: Modifikasi HTTP Server pada folder progjar5<br>
 [Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas8) <br>
+
+Tugas 9: Asynchronous Processing<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas9) <br>
+
+Tugas 10: Asynchronous Processing - Backend Server<br>
+[Link](https://github.com/ayumutiarasari98/progjar-b-its-2020/tree/master/Tugas10) <br>
